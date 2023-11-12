@@ -26,4 +26,4 @@ To build the project, follow these steps:
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
-- [Reference Paper on Skyline Computation](https://example.com/skyline-paper)](https://doi.org/10.1145/1893173.1893176)
+- [[Reference Paper on Skyline Computation](https://example.com/skyline-paper)](https://doi.org/10.1145/1893173.1893176)
